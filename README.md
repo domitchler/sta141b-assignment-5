@@ -547,12 +547,12 @@ country			country
 ### 2.27 HomeGames table
 
 ```
-year.key		year
-league.key		league
-team.key		team ID
-park.key		ballpark ID
-span.first      date of first game played
-span.last		date of last game played
+year_key		year
+league_key		league
+team_key		team ID
+park_key		ballpark ID
+span_first      date of first game played
+span_last		date of last game played
 games			total number of games
 openings		total number of dates played
 attendance		total attendaance
